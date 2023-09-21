@@ -16,12 +16,12 @@ with open("example_lines.txt") as file:
         previous_line = current_line
         current_line = line
         if not line.startswith("TT" or fips_list):
-            new_line = previous_line + current_line
+            row = previous_line + current_line
         else:
-            new_line = current_line
+            row = current_line
     with open('test_output.csv', 'w') as output_file:
             writer = csv.writer(output_file, delimiter = "|")
-            writer.writerows(new_line)
+            writer.writerows(row)
 
 
     
