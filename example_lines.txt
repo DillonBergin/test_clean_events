@@ -1,0 +1,91 @@
+06|051|0001|88101|6|20210828 19:00|30.5|||||105|Micrograms/cubic meter (LC)|RT|Wildfire-U. S.|20220422 17:21|2021 Wildfire Smoke: Dixie, Caldor, French, SNP Complex, Windy Fires.|20220415 14:11|The 2021 wildfire smoke season brought many PM10 and PM2.5 Federal Exceedance to GBUAPCD monitors. Monitored exceedances caused by wildfire smoke began 8/6/2021 and continued through 10/5/2021. -CBH||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0001|88101|6|20210828 20:00|24.3|||||105|Micrograms/cubic meter (LC)|RT|Wildfire-U. S.|20220422 17:21|2021 Wildfire Smoke: Dixie, Caldor, French, SNP Complex, Windy Fires.|20220415 14:11|The 2021 wildfire smoke season brought many PM10 and PM2.5 Federal Exceedance to GBUAPCD monitors. Monitored exceedances caused by wildfire smoke began 8/6/2021 and continued through 10/5/2021. -CBH||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0001|88101|6|20210828 21:00|29.9|||||105|Micrograms/cubic meter (LC)|RT|Wildfire-U. S.|20220422 17:21|2021 Wildfire Smoke: Dixie, Caldor, French, SNP Complex, Windy Fires.|20220415 14:11|The 2021 wildfire smoke season brought many PM10 and PM2.5 Federal Exceedance to GBUAPCD monitors. Monitored exceedances caused by wildfire smoke began 8/6/2021 and continued through 10/5/2021. -CBH||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0001|88101|6|20210828 22:00|29.3|||||105|Micrograms/cubic meter (LC)|RT|Wildfire-U. S.|20220422 17:21|2021 Wildfire Smoke: Dixie, Caldor, French, SNP Complex, Windy Fires.|20220415 14:11|The 2021 wildfire smoke season brought many PM10 and PM2.5 Federal Exceedance to GBUAPCD monitors. Monitored exceedances caused by wildfire smoke began 8/6/2021 and continued through 10/5/2021. -CBH||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0001|88101|6|20210828 23:00|30.2|||||105|Micrograms/cubic meter (LC)|RT|Wildfire-U. S.|20220422 17:21|2021 Wildfire Smoke: Dixie, Caldor, French, SNP Complex, Windy Fires.|20220415 14:11|The 2021 wildfire smoke season brought many PM10 and PM2.5 Federal Exceedance to GBUAPCD monitors. Monitored exceedances caused by wildfire smoke began 8/6/2021 and continued through 10/5/2021. -CBH||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 00:00|40|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 01:00|52.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 02:00|60.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 03:00|50.1|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 04:00|63.4|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 05:00|85.2|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 06:00|60.9|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 07:00|121.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 08:00|116.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 09:00|112.1|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 10:00|262.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 11:00|244.9|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 12:00|116.1|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 13:00|435.4|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 14:00|881.4|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 15:00|975.5|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 16:00|524.9|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 17:00|358.4|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 18:00|222.8|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 19:00|117.3|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 20:00|119.4|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 21:00|130.7|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 22:00|181.6|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180802 23:00|183.5|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180803 00:00|222.6|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180803 01:00|222.8|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180803 02:00|256.2|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180803 03:00|232.5|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
+https://inciweb.nwcg.gov/incident/6250/||||||||||||||||||||||||||||||||||||||||||||||
+06|051|0005|81102|4|20180803 04:00|204.5|||||001|Micrograms/cubic meter (25 C)|RT|Wildfire-U. S.|20200103 19:54|2018 Wildfires: Lions, Ferguson, Camp Fires|20191108 14:34|https://inciweb.nwcg.gov/incident/5850/
+https://inciweb.nwcg.gov/incident/5927/
